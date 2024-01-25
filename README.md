@@ -21,3 +21,6 @@ agar lebih rapi.
 
 Contoh:
 > [Taufik Hidayat - 301200032 - IF] Laporan KP.pdf
+
+Jika file sudah terlanjur diupload dan ingin mengubah nama file, silakan
+hubungi [Admin](https://wa.me/62895338865375)
